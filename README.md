@@ -1,3 +1,11 @@
 # Request Header Parser Microservice
 
-This is the boilerplate for the Request Header Parser Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/request-header-parser-microservice
+Solution for the FCC Back End Development and APIs challenge #2
+
+# Description:
+A full stack JavaScript app that returns IP address , language and software on request to https://boilerplate-project-headerparser.eyepatch0.repl.co/api/whoami
+
+# Used:
+- Node.js
+- Express.js
+- JavaScript
